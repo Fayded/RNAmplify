@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"rnamplifya19da309": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
